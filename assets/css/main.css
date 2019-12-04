@@ -1876,4 +1876,10 @@ bottom: -100px;
     display: block !important;
     z-index: 9;
 }
+    .about--banner img {
+    position: absolute;
+    bottom: -340px;
+    right: -24px;
+         display: block !important;
+}
 }
