@@ -1871,8 +1871,9 @@ body {
 @media (max-width: 767px) {
 .intro--banner img {
     position: absolute;
-    bottom: 0px;
+bottom: -100px;
     right: -35px;
-    display:block !important;
+    display: block !important;
+    z-index: 9;
 }
 }
