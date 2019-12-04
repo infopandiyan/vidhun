@@ -1867,3 +1867,12 @@ body {
     font-size: 20px;
     color: #FF3D00;
 }
+
+@media (max-width: 767px) {
+.intro--banner img {
+    position: absolute;
+    bottom: 0px;
+    right: -35px;
+    display:block !important;
+}
+}
