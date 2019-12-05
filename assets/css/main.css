@@ -852,7 +852,7 @@ body {
         width: 330px
     }
     .intro--options {
-        display: block
+        display: none !important;
     }
     .intro--options>a {
         display: block;
